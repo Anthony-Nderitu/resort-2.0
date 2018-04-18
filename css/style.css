@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  color: #fd5e53;
+}
+h2 {
+  font-family: cursive;
+  text-align: left;
+  color: #1D2952;
+  font-style: italic;
+}
+h3 {
+  font-family: serif;
+  color: #044263;
+  font-style: normal;
+}
+p {
+  font-family: sans-serif;
+  font-style: normal;
+  color: #2D2785;
+}
+h4 {
+  font-style: oblique;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #595DC2;
+}
+body {background-color: #7591E9;
+  color: #AACBDD;
+}
